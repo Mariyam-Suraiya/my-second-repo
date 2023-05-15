@@ -1,0 +1,21 @@
+h{
+    color: antiquewhite;
+}
+p{
+    color: crimson;
+}
+.m{
+    background-color: cornsilk;
+    color: black;
+}
+div{
+    background-color: blue;
+    color: bisque;
+    border-radius: 15px;
+    border: 20px 40px 50px 60px;
+    text-align: center;
+    font-family: fantasy;
+    font-style: italic;
+    padding: 40px 49px 49px 50px;
+    margin: 50px 30px 40px 40px;
+}
