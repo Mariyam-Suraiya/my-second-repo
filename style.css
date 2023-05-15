@@ -2,20 +2,23 @@ h{
     color: antiquewhite;
 }
 p{
-    color: crimson;
+    color: rgb(255, 230, 3);
 }
 .m{
     background-color: cornsilk;
     color: black;
 }
 div{
-    background-color: blue;
+    background-color: rgba(0, 0, 150, 0.699);
     color: bisque;
     border-radius: 15px;
-    border: 20px 40px 50px 60px;
+    border-top: 80px;
     text-align: center;
     font-family: fantasy;
     font-style: italic;
-    padding: 40px 49px 49px 50px;
-    margin: 50px 30px 40px 40px;
+    padding: 15px 20px 34px 35px;
+    margin: 1000px 200px 300px 250px;
+    border-color: rgb(240, 6, 166"
+ 
+    font-size: medium;
 }
